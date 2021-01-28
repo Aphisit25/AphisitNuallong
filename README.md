@@ -20,10 +20,11 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 1. Deilvery control
 2. CESI
 3. Customer claim information
-4. update exchange rates in purchsae system
-5. request quotation
+4. Update exchange rates in purchsae system
+5. Request quotation
 6. Status machinery
-7. automatic printout
-
+7. Automatic printout
+8. Training System
+9. BookingCar --> https://github.com/Aphisit25/BookingCar
 
 ![image](https://github.com/Aphisit25/Resume_AphisitNuallong/blob/main/image/Resume_Aphisit-Nuallong.jpg)
