@@ -21,7 +21,7 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 2. CESI
 3. Customer claim information
 4. Update exchange rates in purchsae system
-5. Request quotation
+5. Request quotation --> https://github.com/Aphisit25/Request_quotation/blob/main/README.md
 6. Status machinery
 7. Automatic printout
 8. Training System --> https://github.com/Aphisit25/Training-System/blob/main/README.md
