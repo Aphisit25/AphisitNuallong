@@ -25,7 +25,7 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 5. Request quotation --> https://github.com/Aphisit25/Request_quotation/blob/main/README.md
 6. Status machinery
 7. Automatic printout
-8. Training System --> https://github.com/Aphisit25/Training-System/blob/main/README.md
+8. Training Record System --> https://github.com/Aphisit25/Training-System/blob/main/README.md
 9. BookingCar --> https://github.com/Aphisit25/BookingCar/blob/main/README.md
 10. E-Commerce --> https://github.com/Aphisit25/E-Commerce/blob/main/README.md
 
