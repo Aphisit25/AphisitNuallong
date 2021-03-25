@@ -1,5 +1,6 @@
-Hello/Good Morning. I am glad to be here for this interview.
+<!--Hello/Good Morning. I am glad to be here for this interview.
 Let me introduce myself.
+-->
 My name is Aphisit Nuallong.
 
 I was born on Wednesday 10th of April 1996. I am 24 years old.
