@@ -1,13 +1,13 @@
 <!--Hello/Good Morning. I am glad to be here for this interview.
 Let me introduce myself.
 -->
-My name is Aphisit Nuallong.
+# My name is Aphisit Nuallong.
 
 I was born on Wednesday 10th of April 1996. I am 24 years old.
 I have no brothers or sisters and I am single.
 I graduated in Faculty of Science and Technology major Information Technology from Thonburi university with GPA 2.76
 
-# My responsibilities include
+My responsibilities include
 1. Develop a program to support production work
 2. Local and remote suport on desktop / laptop to the users
 3. Install windows and configure
@@ -17,7 +17,7 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 7. Knowledge in one more in the programming language basic
 
 
-# Project
+Portfolio
 1. Deilvery control
 2. CESI
 3. Customer claim information
