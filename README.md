@@ -35,3 +35,21 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 -->
 
 View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf).
+
+## Skills
+- [x] Computer
+* Good command in microsoft office365 and adobe
+- [x] Languages
+* PHP, HTML, JS
+* Csharp, VB
+* Python
+* RPA
+* O365, PowerBI
+* VBA Macro excel
+- [x] Database
+* SQL SERVER
+* Azure SQL
+* MYSQL
+* Microsot access
+
+## Protfolio
