@@ -34,4 +34,4 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 ![image](https://github.com/Aphisit25/Resume_AphisitNuallong/blob/main/image/Aphisit-Nuallong.jpg)
 -->
 
-View PDF resume at [Resume_Aphisit-Nuallong.pdf](Resume_Aphisit-Nuallong.pdf).
+View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf).
