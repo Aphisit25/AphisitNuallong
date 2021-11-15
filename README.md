@@ -36,6 +36,9 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 
 View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 
+<!--## My responsibilities -->
+
+
 ## Skills
 - [x] Computer
 * Good command in microsoft office365 and adobe
