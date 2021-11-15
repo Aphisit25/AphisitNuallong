@@ -29,4 +29,4 @@ Portfolio
 9. BookingCar --> https://github.com/Aphisit25/BookingCar/blob/main/README.md
 10. E-Commerce --> https://github.com/Aphisit25/E-Commerce/blob/main/README.md
 
-![image](https://github.com/Aphisit25/Resume_AphisitNuallong/blob/main/image/Resume_Aphisit-Nuallong.jpg)
+![image](https://github.com/Aphisit25/Resume_AphisitNuallong/blob/main/image/Aphisit-Nuallong.jpg)
