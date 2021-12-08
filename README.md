@@ -42,7 +42,7 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 ## Skills
 - [x] Computer
 * Good command in microsoft office365 and adobe
-- [x] Languages
+- [x] Languages skills
 * PHP, HTML, JS
 * Csharp, VB
 * Python
