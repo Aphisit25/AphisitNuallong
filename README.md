@@ -43,17 +43,20 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 - [x] Computer
 * Good command in microsoft office365 and adobe
 - [x] Languages skills
-* PHP, HTML, JS
-* Csharp, VB
+* PHP, HTML, JS, Bootstrap 5
+* Csharp, VB.net
 * Python
 * RPA
 * O365, PowerBI
-* VBA Macro excel
+* Excel marcro [VBA]
+* API
+* IOT
 - [x] Database
 * SQL SERVER
 * Azure SQL
 * MYSQL
 * Microsot access
+* Other
 
 ## Protfolio
 * BookingCar  https://github.com/Aphisit25/BookingCar/blob/main/README.md
