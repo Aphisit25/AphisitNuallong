@@ -57,6 +57,13 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 * MYSQL
 * Microsot access
 * Other
+- [x] Auxiliary skills
+* Install windows and configure
+* Install Linux and configure
+* Install Windows server and configure
+* Install Web server and configure on Linux, Windows server
+* Configure file server and set permissions
+* Install program and configure
 
 ## Protfolio
 * BookingCar  https://github.com/Aphisit25/BookingCar/blob/main/README.md
