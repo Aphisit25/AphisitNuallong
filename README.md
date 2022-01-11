@@ -44,11 +44,12 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 * Good command in microsoft office365 and adobe
 - [x] Languages skills
 * PHP, HTML, JS, Bootstrap
-* Csharp, VB.net
+* C# Console
+* .Net
 * Python GUI, Python API
 * Automation anywhere (RPA)
-* O365, PowerBI
-* Excel marcro [VBA]
+* O365, PowerApps, SharePoint, Power Automate, Forms, Power BI, Other
+* Excel marcro [VBA], UserForm
 * API
 * IOT Machine
 - [x] Database
