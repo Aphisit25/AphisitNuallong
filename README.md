@@ -4,8 +4,8 @@ Let me introduce myself.
 <!--
 # My name is Aphisit Nuallong.
 
-I was born on Wednesday 10th of April 1996. I am 24 years old.
-I have no brothers or sisters and I am single.
+I was born on Wednesday 10th of April 1996. I am 26 years old.
+I have one sibling and I'm married.
 I graduated in Faculty of Science and Technology major Information Technology from Thonburi university with GPA 2.76
 
 ## My responsibilities include
@@ -34,6 +34,11 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 ![image](https://github.com/Aphisit25/Resume_AphisitNuallong/blob/main/image/Aphisit-Nuallong.jpg)
 -->
 
+# My name is Aphisit Nuallong.
+
+#### I was born on Wednesday 10th of April 1996. I am 26 years old.
+#### I have one sibling and I'm married.
+#### I graduated in Faculty of Science and Technology major Information Technology from Thonburi university with GPA 2.76
 View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 
 <!--## My responsibilities -->
