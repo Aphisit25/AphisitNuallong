@@ -46,11 +46,11 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 * PHP, HTML, JS, Bootstrap 5
 * Csharp, VB.net
 * Python
-* RPA
+* Automation anywhere (RPA)
 * O365, PowerBI
 * Excel marcro [VBA]
 * API
-* IOT
+* IOT Machine
 - [x] Database
 * SQL SERVER
 * Azure SQL
