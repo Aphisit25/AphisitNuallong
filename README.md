@@ -43,9 +43,9 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 - [x] Computer
 * Good command in microsoft office365 and adobe
 - [x] Languages skills
-* PHP, HTML, JS, Bootstrap 5
+* PHP, HTML, JS, Bootstrap
 * Csharp, VB.net
-* Python
+* Python GUI, Python API
 * Automation anywhere (RPA)
 * O365, PowerBI
 * Excel marcro [VBA]
