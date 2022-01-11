@@ -50,8 +50,7 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 * Automation anywhere (RPA)
 * O365, PowerApps, SharePoint, Power Automate, Forms, Power BI, Other
 * Excel marcro [VBA], UserForm
-* API
-* IOT Machine
+* IOT Machine eg. Machine stop
 - [x] Database
 * SQL SERVER
 * Azure SQL
