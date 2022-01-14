@@ -67,6 +67,7 @@ View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
 * Install Linux and configure
 * Install Windows server and configure
 * Install Web server and configure on Linux, Windows server
+* Install SQL SERVER and configure
 * Configure file server and set permissions
 * Install program and configure
 
