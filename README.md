@@ -39,7 +39,7 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 #### I was born on Wednesday 10th of April 1996. I am 26 years old.
 #### I have one sibling and I'm married.
 #### I graduated in Faculty of Science and Technology major Information Technology from Thonburi university with GPA 2.76
-View PDF resume at [Aphisit Nuallong.pdf](Resume_Aphisit-Nuallong.pdf)
+View PDF resume at [Aphisit Nuallong.pdf](Aphisit-Nuallong.pdf)
 
 <!--## My responsibilities -->
 
