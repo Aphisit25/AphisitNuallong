@@ -78,7 +78,11 @@ View PDF resume at [Aphisit Nuallong.pdf](Aphisit-Nuallong.pdf)
 * Training Record System  https://github.com/Aphisit25/Training-System/blob/main/README.md
 
 - [x] Power Apps
-* Request quotation https://github.com/Aphisit25/Request_quotation/blob/main/README.md
+* Request quotation
+* MAINTENANCE REQUESTION
+* Process change request
+* IT Job Control
+* Work Order to Facility Section
 
 - [x] Windows Form Application
 * Deilvery control
