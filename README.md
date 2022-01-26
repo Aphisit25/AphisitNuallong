@@ -72,11 +72,25 @@ View PDF resume at [Aphisit Nuallong.pdf](Aphisit-Nuallong.pdf)
 * Install program and configure
 
 ## Protfolio
+- [x] Web Application
 * BookingCar  https://github.com/Aphisit25/BookingCar/blob/main/README.md
 * E-Commerce  https://github.com/Aphisit25/E-Commerce/blob/main/README.md
-* Request quotation https://github.com/Aphisit25/Request_quotation/blob/main/README.md
 * Training Record System  https://github.com/Aphisit25/Training-System/blob/main/README.md
+
+- [x] Power Apps
+* Request quotation https://github.com/Aphisit25/Request_quotation/blob/main/README.md
+
+- [x] Windows Form Application
 * Deilvery control
+* Inventory IT
+* LeaveSystem
+* Training Record System
+
+- [x] RPA (Robotic Process Automation)
+* Stock Control Maintenance
+* Robot Productivity SPD
 * Automatic printout
 * Update exchange rates in purchsae system
+
+- [x] IOT Machine
 * Status machinery
