@@ -1,0 +1,7 @@
+Select Value  , Substring(FullName, 1,Charindex(',', FullName)-1) as Name,
+Substring(FullName, Charindex(',', FullName)+1, LEN(FullName)) as  Surname
+from Table1
+
+
+
+https://stackoverflow.com/questions/10581772/how-to-split-a-comma-separated-value-to-columns
