@@ -32,35 +32,6 @@ I graduated in Faculty of Science and Technology major Information Technology fr
 View PDF resume at [Aphisit Nuallong.pdf](Aphisit-Nuallong.pdf)
 
 <!--## My responsibilities -->
-
-
-## Skills
-- [x] Computer
-* Good command in microsoft office365 and adobe
-- [x] Languages skills
-* PHP, HTML, JS, Bootstrap
-* C# Console
-* .Net
-* Python GUI, Python API
-* Automation anywhere (RPA)
-* O365, PowerApps, SharePoint, Power Automate, Forms, Power BI, Other
-* Excel marcro [VBA], UserForm
-* IOT Machine eg. Machine stop
-- [x] Database
-* SQL SERVER
-* Azure SQL
-* MYSQL
-* Microsot access
-* Other
-- [x] Auxiliary skills
-* Install windows and configure
-* Install Linux and configure
-* Install Windows server and configure
-* Install Web server and configure on Linux, Windows server
-* Install SQL SERVER and configure
-* Configure file server and set permissions
-* Install program and configure
-
 ## Protfolio
 - [x] Web Application
 * BookingCar  https://github.com/Aphisit25/BookingCar/blob/main/README.md
