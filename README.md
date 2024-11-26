@@ -8,16 +8,6 @@ I was born on Wednesday 10th of April 1996. I am 26 years old.
 I have one sibling and I'm married.
 I graduated in Faculty of Science and Technology major Information Technology from Thonburi university with GPA 2.76
 
-## My responsibilities include
-1. Develop a program to support production work
-2. Local and remote suport on desktop / laptop to the users
-3. Install windows and configure
-4. Configure linux server and installation server set permissins
-5. Support ERP and implementation
-6. Test program
-7. Knowledge in one more in the programming language basic
-
-
 ## Portfolio
 1. Deilvery control
 2. CESI
